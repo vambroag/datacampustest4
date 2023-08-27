@@ -202,9 +202,9 @@ body {
 
 .muscle_weak {
     position: absolute;
-    width: 200px;
+    width: 270px;
     height: 24px;
-    left: calc(50% - 200px/2);
+    left: calc(50% - 270px/2);
     top: 22.962963%;
     font-family: 'Pretendard';
     font-style: normal;
@@ -245,9 +245,9 @@ body {
 
 .weird_heartbeat {
     position: absolute;
-    width: 200px;
+    width: 270px;
     height: 24px;
-    left: calc(50% - 200px/2);
+    left: calc(50% - 270px/2);
     top: 22.962963%;
     font-family: 'Pretendard';
     font-style: normal;
@@ -288,9 +288,9 @@ body {
 
 .too_much_pee {
     position: absolute;
-    width: 200px;
+    width: 270px;
     height: 24px;
-    left: calc(50% - 200px/2);
+    left: calc(50% - 270px/2);
     top: 22.962963%;
     font-family: 'Pretendard';
     font-style: normal;
@@ -469,9 +469,9 @@ body {
 
 .drink_water {
     position: absolute;
-    width: 200px;
+    width: 270px;
     height: 24px;
-    left: calc(50% - 200px/2);
+    left: calc(50% - 270px/2);
     top: 22.962963%;
 
     font-family: 'Pretendard';
